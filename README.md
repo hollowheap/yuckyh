@@ -23,8 +23,8 @@
 
 I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
-- 🔭 I’m looking for a full-time job as a Software Engineer, Data Analyst, and Data Engineer in Singapore.
-- 📚 I'm currently learning Lua.
+- 🔭 I’m studying Software Engineering at Singapore Institute of Technology.
+- 📚 I'm currently learning Rust.
 - ⚡ In my free time, I learn more about cloud technologies.
 
 ---
