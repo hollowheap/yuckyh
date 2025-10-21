@@ -25,7 +25,6 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
 
 - 🔭 I’m studying Software Engineering at Singapore Institute of Technology.
 - 📚 I'm currently learning Rust.
-- ⚡ In my free time, I learn more about cloud technologies.
 
 ---
 
@@ -52,19 +51,11 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -100,8 +91,6 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
 </div>
 
@@ -112,13 +101,9 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge" height="40" alt="amazondynamodb logo"  />
 </div>
 
 ###
@@ -132,11 +117,7 @@ I'm Yucky Hito from Batam, Indonesia currently located in Singapore
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
 </div>
 
 ---
